@@ -1,0 +1,16 @@
+{
+  "name": "httpserver",
+  "version": "1.0.0",
+  "description": "HTTP server sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http",
+    "server",
+    "node.js"
+  ],
+  "author": "Suguru FUJISAWA",
+  "license": "ISC"
+}
